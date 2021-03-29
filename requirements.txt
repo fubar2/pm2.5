@@ -82,7 +82,7 @@ ptyprocess==0.6.0
 pycparser==2.19
 pycryptodome==3.9.4
 pygeoip==0.3.2
-Pygments==2.5.2
+Pygments==2.7.4
 pygraphviz==1.5
 pyHS100==0.3.5
 PyJWT==1.7.1
